@@ -1,0 +1,21 @@
+{
+  "name": "hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "dependencies": {
+    "uid": "^2.0.1",
+    "yargs": "^17.6.2"
+  }
+}
