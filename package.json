@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodeman": "^1.1.2"
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
     "uid": "^2.0.1",
